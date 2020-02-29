@@ -1,3 +1,3 @@
 # unit-testing
 
-![Java CI](https://github.com/cesar-school/unit-testing/workflows/Java%20CI/badge.svg)
+![Java CI](https://github.com/lazarofsjunior/unit-testing-1/workflows/Java%20CI/badge.svg)
