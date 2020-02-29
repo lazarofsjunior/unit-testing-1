@@ -10,6 +10,6 @@ public class MyApplication {
     }
 
     public boolean processMessage(Message message) {
-        return this.service.sendMessage(message.msg, message.rec);
+        return this.service.sendMessage(message.getMsg(), message.getRec());
     }
 }
